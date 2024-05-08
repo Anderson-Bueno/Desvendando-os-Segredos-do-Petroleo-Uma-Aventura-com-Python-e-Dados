@@ -4,7 +4,7 @@
     <h1>Desvendando os Segredos do Petróleo: Uma Aventura com Python e Dados</h1>
     <div class="section">
         <h2>O Desafio</h2>
-Já pensou em como os dados podem transformar a maneira como empresas como a Petrobras operam? Em um projeto recente, mergulhei fundo nesse mundo fascinante da análise de dados na indústria petrolífera. Vou contar um pouco sobre como utilizei Python, SQL e algumas técnicas de modelagem para desvendar os segredos da produção de petróleo em plataformas offshore de em uma empresa petrolífera.
+Já pensou em como os dados podem transformar a maneira como empresas petrolíferas operam? Em um projeto recente, mergulhei fundo nesse mundo fascinante da análise de dados na indústria petrolífera. Vou contar um pouco sobre como utilizei Python, SQL e algumas técnicas de modelagem para desvendar os segredos da produção de petróleo em plataformas offshore.
         <p>No projeto anterior, utilizei Python para extrair dados brutos de diferentes fontes, incluindo bancos de dados internos da Petrobras e APIs externas.</p>
     </div>
     <div class="section">
