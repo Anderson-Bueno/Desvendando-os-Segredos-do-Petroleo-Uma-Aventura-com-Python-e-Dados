@@ -4,7 +4,7 @@
     <h1>Desvendando os Segredos do Petróleo: Uma Aventura com Python e Dados</h1>
     <div class="section">
         <h2>O Desafio</h2>
-Já pensou em como os dados podem transformar a maneira como empresas como a Petrobras operam? Em um projeto recente, mergulhei fundo nesse mundo fascinante da análise de dados na indústria petrolífera. Vou contar um pouco sobre como utilizei Python, SQL e algumas técnicas de modelagem para desvendar os segredos da produção de petróleo em plataformas offshore da Petrobras.
+Já pensou em como os dados podem transformar a maneira como empresas como a Petrobras operam? Em um projeto recente, mergulhei fundo nesse mundo fascinante da análise de dados na indústria petrolífera. Vou contar um pouco sobre como utilizei Python, SQL e algumas técnicas de modelagem para desvendar os segredos da produção de petróleo em plataformas offshore de em uma empresa petrolífera.
         <p>No projeto anterior, utilizei Python para extrair dados brutos de diferentes fontes, incluindo bancos de dados internos da Petrobras e APIs externas.</p>
     </div>
     <div class="section">
@@ -19,11 +19,11 @@ Mas isso foi só o começo. Com o SQL, integrei e limpei esses dados, garantindo
     </div>
     <div class="section">
         <h2>Resultados e Impacto:</h2>
-        <p>E o que aconteceu no final desse mergulho profundo nos dados? Entreguei análises e insights valiosos para a equipe de engenharia e operações da Petrobras. Essas informações foram usadas para otimizar a produção e melhorar a eficiência das operações nas plataformas offshore.</p>
+        <p>E o que aconteceu no final desse mergulho profundo nos dados? Entreguei análises e insights valiosos para a equipe de engenharia e operações da empresa petrolífera. Essas informações foram usadas para otimizar a produção e melhorar a eficiência das operações nas plataformas offshore.</p>
     </div>
    <div class="section">
         <h2>Conclusão:</h2>
-        <p>Este projeto foi uma jornada emocionante através do mundo dos dados e da indústria petrolífera. Demonstrou como o uso eficaz de Python, SQL e técnicas de modelagem de dados pode agregar valor significativo às operações de uma empresa como a Petrobras. E, acima de tudo, mostrou o poder que os dados têm para transformar o mundo ao nosso redor.</p>
+        <p>Este projeto foi uma jornada emocionante através do mundo dos dados e da indústria petrolífera. Demonstrou como o uso eficaz de Python, SQL e técnicas de modelagem de dados pode agregar valor significativo às operações de uma empresa como a empresa petrolífera. E, acima de tudo, mostrou o poder que os dados têm para transformar o mundo ao nosso redor.</p>
     </div>
 </body>
 </html>
